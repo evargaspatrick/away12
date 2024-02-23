@@ -43,6 +43,8 @@
     "relevance" : "Medium",
     "clueType" : "Circumstantial",
     "evidenceStrength" : 7
+<<<<<<< HEAD
+=======
   }, {
     "name": "Ink Footprints in the Office",
     "description": "Footprints leading to the hallway.",
@@ -50,6 +52,7 @@
     "relevance": "High",
     "clueType": "Physical",
     "evidenceStrength": 4
+>>>>>>> b1d61b5539b184d7b607e3cc6c7bd8898f692f6a
   } ],
   "people" : [ ],
   "accessibility" : true,
@@ -57,6 +60,9 @@
 }, {
   "name" : "Mega Stadium Hallway",
   "description" : "A bustling corridor in the stadium, echoing with the sounds of excited fans.",
+<<<<<<< HEAD
+  "items" : [ ],
+=======
   "items" : [ {
     "name": "Ink Footprints in the Hallway",
     "description": "More footprints leading to Janitor Closet.",
@@ -65,6 +71,7 @@
     "clueType": "Physical",
     "evidenceStrength": 5
   } ],
+>>>>>>> b1d61b5539b184d7b607e3cc6c7bd8898f692f6a
   "people" : [ {
     "name" : "Janitor Joe",
     "role" : "Janitor",
@@ -84,7 +91,11 @@
   "description" : "A small, cramped space filled with cleaning supplies and the occasional clue.",
   "items" : [ {
     "name" : "Sticky Note",
+<<<<<<< HEAD
+    "description" : "A sticky note with a cryptic message that could lead to a breakthrough in the case.",
+=======
     "description" : "A sticky note with a cryptic message \"hint: star-player of ‘64, 23 was the best\"",
+>>>>>>> b1d61b5539b184d7b607e3cc6c7bd8898f692f6a
     "location" : "Mega Stadium Hallway",
     "relevance" : "High",
     "clueType" : "Testimonial",

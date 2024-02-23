@@ -1,3 +1,63 @@
+<<<<<<< HEAD
+[
+  {
+    "name": "Key",
+    "description": "A small, metallic key that seems to unlock Janitor's Closet.",
+    "location": "Janitor Joe",
+    "relevance": "High",
+    "clueType": "Physical",
+    "evidenceStrength": 10
+  },
+  {
+    "name": "Magnifying Glass",
+    "description": "An essential tool for any detective looking to uncover the finer details of a case.",
+    "location": "Detective's Office",
+    "relevance": "High",
+    "clueType": "Physical",
+    "evidenceStrength": 8
+  },
+  {
+    "name": "Notebook",
+    "description": "An essential tool for you to write down everything that you encounter.",
+    "location": "Detective's Office",
+    "relevance": "High",
+    "clueType": "Testimonial",
+    "evidenceStrength": 8
+  },
+  {
+    "name": "Trench Coat",
+    "description": "A classic detective's trench coat with hidden pockets.",
+    "location": "Detective's Office",
+    "relevance": "High",
+    "clueType": "Physical",
+    "evidenceStrength": 9
+  },
+  {
+    "name": "Football Yearbook",
+    "description": "A yearbook filled with details about the football team, including some suspicious annotations.",
+    "location": "Coach Marlowe’s Office",
+    "relevance": "High",
+    "clueType": "Testimonial",
+    "evidenceStrength": 8
+  },
+  {
+    "name": "Ink Box",
+    "description": "Knocked over ink box.",
+    "location": "Janitor's Closet",
+    "relevance": "Medium",
+    "clueType": "Circumstantial",
+    "evidenceStrength": 7
+  },
+  {
+    "name": "Sticky Note",
+    "description": "A sticky note with a cryptic message that could lead to a breakthrough in the case.",
+    "location": "Mega Stadium Hallway",
+    "relevance": "High",
+    "clueType": "Testimonial",
+    "evidenceStrength": 10
+  }
+]
+=======
 [
   {
     "name": "Key",
@@ -72,3 +132,4 @@
     "evidenceStrength": 10
   }
 ]
+>>>>>>> b1d61b5539b184d7b607e3cc6c7bd8898f692f6a

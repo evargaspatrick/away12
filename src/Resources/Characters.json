@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "Janitor Joe",
   "role": "Janitor",
@@ -10,3 +11,17 @@
   "clues": ["Key"],
   "age": 58.0
 }
+=======
+{
+  "name": "Janitor Joe",
+  "role": "Janitor",
+  "description": "Caretaker of the premises with access to all areas, including the janitor's closet.",
+  "suspectReason": "Has unrestricted access to all rooms, raising suspicion.",
+  "relationshipWithVictim": "Occasional interactions, mostly professional.",
+  "usefulness": "Has a key ",
+  "location": "Mega Stadium Hallway",
+  "traits": ["Observant", "Meticulous"],
+  "clues": ["Key"],
+  "age": 58.0
+}
+>>>>>>> b1d61b5539b184d7b607e3cc6c7bd8898f692f6a
